@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python mavproxy.py --console --mav10 $@
+
+
